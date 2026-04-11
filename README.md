@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=24&color=195874&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+web+and+app+developer;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=24&color=195874&center=true&vCenter=true&random=false&width=500&lines=Software+developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
@@ -99,9 +99,11 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
+<!-- Commented
   <img alt="Aniket's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aniketkr01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt="Aniket's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aniketkr01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   <br/>
+-->
 
   <img alt="Aniket's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aniketkr01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   <br />
