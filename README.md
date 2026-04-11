@@ -114,8 +114,8 @@
   <br />
 
   <h3> GeeksForGeeks Stats</h3>
-    <a href="https://www.geeksforgeeks.org/user/aniketkr08903/">
-      <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=aniketkr08903" alt="Aniket's GFG stats" width="1000px" height="500px" />
+    <a href="https://www.geeksforgeeks.org/profile/aniketkr08903?tab=activity">
+      <img src="https://geeks-for-geeks-stats-card.vercel.app/aniketkr08903?theme=light" alt="Aniket's GFG stats" width="1000px" height="500px" />
     </a>
   <br/>
 
