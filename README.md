@@ -124,6 +124,7 @@ It allows users to define workflows as DAGs, execute tasks across distributed wo
 - Worked on production systems using **Go, Java, React, TypeScript, gRPC, testing, and distributed backend patterns**
 - Received **Swiggy MVP recognition twice** — 2025 and March 2026
 - Built a distributed **Workflow Engine** with DAG execution, Redis Streams, worker pools, MCP integration, retries, DLQ, and observability
+- Institute **Gold Medalist** for academic excellence; overall topper with **9.93 / 10.00 CGPA**
 - Global Rank **362 / 300,000+** in TechGig CodeGladiators 2023
 - Google Kick Start 2022 — Global Rank **1604**
 
